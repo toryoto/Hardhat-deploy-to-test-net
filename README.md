@@ -1,1 +1,16 @@
-# Hardhat-deploy-to-test-net
+# イーサリアムトークンプロジェクト
+
+Hardhatを使用した基本的なイーサリアムトークンの実装を示して、INFURA を介して Sepolia テストネット上にデプロイ
+
+## やったこと
+
+- ERC20 トークンのスマートコントラクト
+- Hardhat を使用したデプロイメントスクリプト
+- Sepolia テストネットへのデプロイメントのため INFURA との統合
+- 構造化されたデプロイメントのための Hardhat Ignition の使用
+
+## 前提
+
+- Node.js（v14以上推奨）
+- npm（通常 Node.js に付属）
+- イーサリアムネットワークにアクセスするための INFURA アカウント
